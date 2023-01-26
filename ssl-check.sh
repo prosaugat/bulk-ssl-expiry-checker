@@ -1,7 +1,5 @@
 #Domain List, one name per line
 sites="
-dishhome.com.np
-prabhutv.com.np
 facebook.com
 www.saugatnepal.com.np
 "
